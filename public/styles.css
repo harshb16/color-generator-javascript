@@ -557,10 +557,6 @@ video {
 	--tw-ring-offset-shadow: 0 0 #0000;
 	--tw-ring-shadow: 0 0 #0000;
 }
-.mx-32 {
-	margin-left: 8rem;
-	margin-right: 8rem;
-}
 .mx-36 {
 	margin-left: 9rem;
 	margin-right: 9rem;
@@ -605,12 +601,6 @@ video {
 	--tw-bg-opacity: 1;
 	background-color: rgba(0, 0, 0, var(--tw-bg-opacity));
 }
-.p-24 {
-	padding: 6rem;
-}
-.p-20 {
-	padding: 5rem;
-}
 .p-16 {
 	padding: 4rem;
 }
@@ -625,17 +615,13 @@ video {
 .text-center {
 	text-align: center;
 }
-.text-7xl {
-	font-size: 4.5rem;
+.text-5xl {
+	font-size: 3rem;
 	line-height: 1;
 }
 .text-2xl {
 	font-size: 1.5rem;
 	line-height: 2rem;
-}
-.text-5xl {
-	font-size: 3rem;
-	line-height: 1;
 }
 .text-gray-900 {
 	--tw-text-opacity: 1;
