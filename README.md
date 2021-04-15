@@ -1,3 +1,5 @@
-# Color generator
+# Colour generator
 
-Generate random colors and their hexcodes
+A simple random colour generator
+
+###### [Live Site](https://colourgen.ml)
